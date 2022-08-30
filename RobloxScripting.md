@@ -1,6 +1,6 @@
 # Background
 
-Heyo, I am MemezyDev, or Memezy! I am a 15 year old programmer who lives in California (Timezone PST). I have been developing on the ROBLOX platform for almost 4 years at this point, however I have started to take it seriously (actually trying to learn, not screwing around, doing commissions) for 2 years at this point. My first few commissions were making GFX, and later I switched over to what I currently do, scripting. Over the years, I have coded a wide number of games, Ranging from Cafe and Hotel games, to Roleplay and Tycoon games.
+Heyo, I am astrozyz! I am a 15 year old programmer who lives in California (Timezone PST). I have been developing on the ROBLOX platform for almost 4 years at this point, however I have started to take it seriously (actually trying to learn, not screwing around, doing commissions) for 2 years at this point. My first few commissions were making GFX, and later I switched over to what I currently do, scripting. Over the years, I have coded a wide number of games, Ranging from Cafe and Hotel games, to Roleplay and Tycoon games.
 
 # Skillset
 
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=aly11mywmfc
 
 # Availability
 
-I am usually always on my computer. I don't like coding 24/7 as I'll just end up getting burnt out and taking months off coding which will make me rusty, it has happen before. I try to code at least for 2-3 hours a day minimum, working on any commissions I have. The queue for commissions is pretty much like a first come first serve system. I work on the first jobs I get, then once that one is done I move on to the next. If you hire me for a long term commission, sometimes I will work on somethinh small, then move to a short term job I have. On the weekdays, since it is currently summer, I pretty much got the entire day to get online and start coding, and on weekends I may be busy here and there but usually I am still on the same amount of time. When school starts, my schedule will be changed a little bit, and I may not be on all day like I currently am, but still will be on to code for at least 2 hours a day.
+I am usually always on my computer. I don't like coding 24/7 as I'll just end up getting burnt out and taking months off coding which will make me rusty, it has happen before. I try to code at least for 2-3 hours a day minimum, working on any commissions I have. The queue for commissions is pretty much like a first come first serve system. I work on the first jobs I get, then once that one is done I move on to the next. If you hire me for a long term commission, sometimes I will work on something small, then move to a short term job I have. On the weekdays, since it is currently summer, I pretty much got the entire day to get online and start coding, and on weekends I may be busy here and there but usually I am still on the same amount of time. When school starts, my schedule will be changed a little bit, and I may not be on all day like I currently am, but still will be on to code for at least 2 hours a day.
 
 # Pricing
 
@@ -55,7 +55,7 @@ If you are coming here from a server such as Hidden Developers or RoDevs, then y
 
 And we've reached the end of my Portfolio. Thanks for sticking around. I am extremely active on Discord, you can reach out to me by sending me a friend request 
 
-### Memezy#6113
+### astrozyz#1773
 
 Sometimes I may accept random friend requests, but sometimes I won't since my DMS got bombed in the past. A good way to contact me is by joining Hidden Developers, as then I can look at our mutual servers and see that this is related to a roblox commissions
 
