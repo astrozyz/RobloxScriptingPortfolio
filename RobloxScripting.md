@@ -61,4 +61,20 @@ Sometimes I may accept random friend requests, but sometimes I won't since my DM
 
 ### discord.gg/hd
 
+Or alternatively, you can join my commissions server, this is a new server I will be using for now on to keep track of all ongoing commissions, and to track reviews, and soon I will be regulating all commissioners to create tickets there for orginization on my end, and to remember what jobs I have
+
+### https://discord.gg/VgxwfzGrWT
+
 Anyways this is all I got for my portfolio. Thank you for sticking around, and I hope shortly in the future we can work together :)
+
+### TERMS OF SERVICE
+
+
+### BY COMMISSIONING ME, YOU ACCEPT TO: 
+### 1) BE PREPARED TO SEND ANY ASSETS/DETAILS NEEDED TO COMPLETE THE COMMISSION
+### 2) BE ABLE TO PAY THROUGH USD ONLY THROUGH PAYPAL, ANY REGIONAL CONVERSION FEES YOU WILL BE RESPONSIBLE FOR
+### 3) WHEN SENDING PAYMENT, PLEASE SEND AS FRIENDS AND FAMILY AND NOT GOODS AND SERVICES, REMOVES A LOT OF HASSLE ON MY END (this helps me a ton lol) 
+### 4) ACCEPT TO PAY A 25% DOWNPAYMENT ON HIGH PRICED COMMISSIONS, FOR PROOF OF FUNDS AND DETERMINATION, SO NO ONE IS WASTING ANYBODYS TIME 
+### 5) THESE TERMS CAN BE CHANGED AT ANY TIME, AND YOU WILL AUTOMATICALLY ACCEPT THESE (ofc i will update you in the commissions server :)
+
+Thank you for your interest, have a great day :)
