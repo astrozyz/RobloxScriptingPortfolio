@@ -1,6 +1,6 @@
 # Background
 
-Heyo, I am astrozyz! I am a 15 year old programmer who lives in California (Timezone PST). I have been developing on the ROBLOX platform for almost 4 years at this point, however I have started to take it seriously (actually trying to learn, not screwing around, doing commissions) for 2 years at this point. My first few commissions were making GFX, and later I switched over to what I currently do, scripting. Over the years, I have coded a wide number of games, Ranging from Cafe and Hotel games, to Roleplay and Tycoon games.
+Heyo, I am astrozyz! I am a 15 year old programmer who lives in the United States (Timezone PST). I have been developing on the ROBLOX platform for almost 4 years at this point, however I have started to take it seriously (actually trying to learn, not screwing around, doing commissions) for 2 years at this point. My first few commissions were making GFX, and later I switched over to what I currently do, scripting. Over the years, I have coded a wide number of games, Ranging from Cafe and Hotel games, to Roleplay and Tycoon games.
 
 # Skillset
 
