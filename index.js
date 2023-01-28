@@ -22,7 +22,7 @@ const data = {
 		{
 			id: "work-3",
 			thumbnail:
-				"https://www.youtube.com/watch?v=mtr4eHSEYyo&ab_channel=Memezy",
+				"https://cdn.discordapp.com/attachments/1054611138312151070/1069008392431075368/RPReplay_Final1674941771.mov",
 			name: "Sword Fighting System",
 			date: "June 2022",
 			description:
