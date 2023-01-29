@@ -28,6 +28,15 @@ const data = {
 			description:
 				"This is a sword system I created a few months back. The system is pretty simple, yet effective. I wanted to complete it, however I got busy with other commissions and forgot about it. The system allows you to attack with a katana that you can either equip and unequip, along with camera bobbing and a running system.",
 		},
+		{
+			id: "work-4",
+			thumbnail:
+				"https://cdn.discordapp.com/attachments/1054611138312151070/1069192062152482856/2023-01-29_01-42-32.mp4",
+			name: "Basic Building System",
+			date: "February 2023",
+			description:
+				"This system was a commission of mine. It consisted of tree chopping, crafting, inventory, and a placement system. The placement system was created by zblox164 with his PlacementService module, however everything else was created by me. The tree chopping is simple, you click on a tree with an axe then it falls, and a log spawns to allow you (or other players) to collect the fallen wood. The wood is then added to your inventory, with all other crafted items added. The reason why this simple system is on my portfolio is due to the fact the entire system is modular. To add a new item into the system, all you need to do is create a new button for the crafting menu (everything is automatically sized and placed in the correct spot with the help of a UiGridLayout), name it the exact same as the model, and place the model in a folder, give said model a number attribute with the name \"Cost\", duplicate an existing int value inside of a folder and name it the exact same as the model, and you now have a new item that works with crafting, your inventory, data saving, and placement. Everything is cross platform, working on mobile, PC, and even XBOX!",
+		},
 	],
 };
 
