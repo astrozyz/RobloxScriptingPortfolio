@@ -1,6 +1,6 @@
 const data = {
 	"pricing-img":
-		"https://media.discordapp.net/attachments/1057924910644736010/1061458215302336552/pricing_sheet.png?width=940&height=671",
+		"https://media.discordapp.net/attachments/1054611138312151070/1096256566593863731/Group_4.png?width=940&height=671",
 	"work": [
 		{
 			id: "work-1",
