@@ -399,6 +399,55 @@ button {
   background-color: #191919;
 }
 
+/* start */
+
+.noteable-section {
+  gap: 25px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.noteable-section .noteable--heading {
+  gap: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+.noteable-section .noteable--heading #noteable--heading-header {
+  align-self: center;
+  font-size: 30px;
+}
+
+.noteable-section .noteable--heading #noteable--heading-p {
+  font-size: clamp(15px, 2vw, 20px);
+  text-align: center;
+}
+
+.noteable-section ul {
+  display: flex;
+  flex-direction: column;
+  list-style-position: inside;
+}
+
+.noteable-section ul li {
+  width: fit-content;
+  color: #c2c2c2;
+  font-size: clamp(13px, 2vw, 19px);
+}
+
+.noteable-section::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 10px;
+  margin: 25px;
+  align-self: center;
+  border-radius: 100px;
+  background-color: #191919;
+}
+
 .sticky {
   position: fixed;
   width: 100%;

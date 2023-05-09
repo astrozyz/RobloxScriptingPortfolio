@@ -40,7 +40,6 @@ const data = {
 	],
 };
 
-document.getElementById("pricing-img").src = data["pricing-img"];
 
 data.work.forEach((work) => {
 	const workSelector = document.getElementById(work.id);
@@ -59,6 +58,7 @@ const pastWorkSection = document.getElementsByClassName("past-work-section")[0];
 const availabilitySection = document.getElementsByClassName("availability-section")[0];
 const pricingSection = document.getElementsByClassName("pricing-section")[0];
 const termsSection = document.getElementsByClassName("terms-section")[0];
+const noteableSection = document.getElementsByClassName("noteable-section")[0];
 const getSection = document.getElementsByClassName("get-section")[0];
 
 const btns = document.getElementsByClassName("pc-btn-head");
@@ -72,6 +72,14 @@ window.onload = function () {
 		showM();
 	};
 };
+
+//0: about, 
+// 1: pastwork, 
+// 2: pricing, 
+// 3: availability, 
+// 4: terms, 
+// 5: notable, 
+// 6: get in touch
 
 function show() {
 	if (window.scrollY < pastWorkSection.offsetTop - 100) {
@@ -104,9 +112,15 @@ function show() {
 		btns[5].classList.remove("blue-highlight");
 	}
 
-	if (window.scrollY >= getSection.offsetTop - 160) {
+	if (window.scrollY >= noteableSection.offsetTop - 160) {
 		btns[5].classList.add("blue-highlight");
 		btns[4].classList.remove("blue-highlight");
+		btns[6].classList.remove("blue-highlight");
+	}
+
+	if (window.scrollY >= getSection.offsetTop - 160) {
+		btns[6].classList.add("blue-highlight");
+		btns[5].classList.remove("blue-highlight");
 	}
 
 	if (window.scrollY > headerSticky) {
@@ -115,6 +129,14 @@ function show() {
 		header.classList.remove("sticky");
 	}
 }
+
+//0: about, 
+// 1: pastwork, 
+// 2: pricing, 
+// 3: availability, 
+// 4: terms, 
+// 5: notable, 
+// 6: get in touch
 
 function showM() {
 	if (window.scrollY < pastWorkSection.offsetTop - 100) {
@@ -139,6 +161,7 @@ function showM() {
 		btnsM[2].classList.remove("blue-highlight");
 		btnsM[4].classList.remove("blue-highlight");
 	}
+	
 
 	if (window.scrollY >= termsSection.offsetTop - 100) {
 		btnsM[4].classList.add("blue-highlight");
@@ -146,9 +169,15 @@ function showM() {
 		btnsM[5].classList.remove("blue-highlight");
 	}
 
-	if (window.scrollY >= getSection.offsetTop - 100) {
+	if (window.scrollY >= noteableSection.offsetTop - 100) {
 		btnsM[5].classList.add("blue-highlight");
 		btnsM[4].classList.remove("blue-highlight");
+		btnsM[6].classList.remove("blue-highlight");
+	}
+
+	if (window.scrollY >= getSection.offsetTop - 100) {
+		btnsM[6].classList.add("blue-highlight");
+		btnsM[5].classList.remove("blue-highlight");
 	}
 
 	if (window.scrollY > headerSticky) {
