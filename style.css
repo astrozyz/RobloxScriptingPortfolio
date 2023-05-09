@@ -406,7 +406,7 @@ button {
   width: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
 }
 
 .noteable-section .noteable--heading {
