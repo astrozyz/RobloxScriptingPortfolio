@@ -15,7 +15,7 @@ const data = {
 			thumbnail:
 				"https://cdn.discordapp.com/attachments/1054611138312151070/1065188754177929276/2023-01-18_00-33-24.mp4",
 			name: "Character Customization",
-			date: "Novemeber 2022",
+			date: "November 2022",
 			description:
 				"This character customization system is simple yet effective. The system allows you to build a custom character to be used ingame with an easy to use user interface, and supports saving/loading characters, as well as editing the loaded character.",
 		},
