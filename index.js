@@ -1,43 +1,79 @@
 const data = {
-	"pricing-img":
-		"https://media.discordapp.net/attachments/1054611138312151070/1096256566593863731/Group_4.png?width=940&height=671",
-	"work": [
-		{
-			id: "work-1",
-			thumbnail: "https://cdn.discordapp.com/attachments/1057924910644736010/1064767514384531506/2023-01-16_20-36-29.mp4",
-			name: "Dead Eye Replica",
-			date: "January 2023",
-			description:
-				"This system is heavily based off of the Dead Eye system found in Red Dead Redemption II. The system, when caps lock or middle mouse is clicked, slows down time and allows you to \"paint\" enemies with X's. If you left click or run out of marks (ammo capacity), it will begin to fire your weapon at said marks. ",
-		},
-		{
-			id: "work-2",
-			thumbnail:
-				"https://cdn.discordapp.com/attachments/1054611138312151070/1065188754177929276/2023-01-18_00-33-24.mp4",
-			name: "Character Customization",
-			date: "November 2022",
-			description:
-				"This character customization system is simple yet effective. The system allows you to build a custom character to be used ingame with an easy to use user interface, and supports saving/loading characters, as well as editing the loaded character.",
-		},
-		{
-			id: "work-3",
-			thumbnail:
-				"https://cdn.discordapp.com/attachments/1054611138312151070/1069008392431075368/RPReplay_Final1674941771.mov",
-			name: "Sword Fighting System",
-			date: "June 2022",
-			description:
-				"This is a sword system I created a few months back. The system is pretty simple, yet effective. I wanted to complete it, however I got busy with other commissions and forgot about it. The system allows you to attack with a katana that you can either equip and unequip, along with camera bobbing and a running system.",
-		},
-		{
-			id: "work-4",
-			thumbnail:
-				"https://cdn.discordapp.com/attachments/1054611138312151070/1069192062152482856/2023-01-29_01-42-32.mp4",
-			name: "Basic Building System",
-			date: "February 2023",
-			description:
-				"This system was a commission of mine. It consisted of tree chopping, crafting, inventory, and a placement system. The placement system was created by zblox164 with his PlacementService module, however everything else was created by me. The tree chopping is simple, you click on a tree with an axe then it falls, and a log spawns to allow you (or other players) to collect the fallen wood. The wood is then added to your inventory, with all other crafted items added. The reason why this simple system is on my portfolio is due to the fact the entire system is modular. To add a new item into the system, all you need to do is create a new button for the crafting menu (everything is automatically sized and placed in the correct spot with the help of a UiGridLayout), name it the exact same as the model, and place the model in a folder, give said model a number attribute with the name \"Cost\", duplicate an existing int value inside of a folder and name it the exact same as the model, and you now have a new item that works with crafting, your inventory, data saving, and placement. Everything is cross platform, working on mobile, PC, and even XBOX!",
-		},
-	],
+    "pricing-img":
+        "https://media.discordapp.net/attachments/1054611138312151070/1096256566593863731/Group_4.png?width=940&height=671",
+    "work": [
+        {
+            id: "work-1",
+            thumbnail: "https://cdn.discordapp.com/attachments/1057924910644736010/1064767514384531506/2023-01-16_20-36-29.mp4",
+            name: "Dead Eye Replica",
+            date: "January 2023",
+            description:
+                'This system was a recreation of the Dead Eye system in RDR2',
+        },
+        {
+            id: "work-2",
+            thumbnail:
+                "https://cdn.discordapp.com/attachments/1054611138312151070/1065188754177929276/2023-01-18_00-33-24.mp4",
+            name: "Character Customization",
+            date: "November 2022",
+            description:
+                "This is a simple character customization I made for a commission.",
+        },
+        {
+            id: "work-3",
+            thumbnail:
+                "https://cdn.discordapp.com/attachments/1054611138312151070/1069008392431075368/RPReplay_Final1674941771.mov",
+            name: "Sword Fighting System",
+            date: "June 2022",
+            description:
+                "This is a sword fighting system I created whilst I was bored, I did not have time to finish it.",
+        },
+        {
+            id: "work-4",
+            thumbnail:
+                "https://cdn.discordapp.com/attachments/1054611138312151070/1069192062152482856/2023-01-29_01-42-32.mp4",
+            name: "Basic Building System",
+            date: "February 2023",
+            description:
+                "Here is a simple building system I made with placement, resource collection, and crafting.",
+        },
+        {
+            id: "work-5",
+            thumbnail:
+                "https://cdn.discordapp.com/attachments/1014713861317861446/1124620205864276048/2023-07-01_01-37-30.mp4",
+            name: "Luck Spinner",
+            date: "June 2023",
+            description:
+                "Here is a simple spinner I made for a simulator, every second the green gets bigger and bigger, and if you land in the green you gain a rebirth.",
+        },
+        {
+            id: "work-6",
+            thumbnail:
+                "https://cdn.discordapp.com/attachments/1014713861317861446/1124620518612533329/2023-07-01_01-38-51.mp4",
+            name: "Vehicle Setup",
+            date: "June 2023",
+            description:
+                "Here is a vehicle that I set up for someone using A-Chassis",
+        },
+        {
+            id: "work-7",
+            thumbnail:
+                "https://cdn.discordapp.com/attachments/1014713861317861446/1124621345603465216/2023-07-01_01-42-14_Trim.mp4",
+            name: "Zombie Grab",
+            date: "June 2023",
+            description:
+                "Here is an NPC grab system similar to the grabbing in the game Vampire Hunters. To fight the grip you continuously left-click",
+        },
+        {
+            id: "work-8",
+            thumbnail:
+                "https://cdn.discordapp.com/attachments/1014713861317861446/1124625389180948490/2023-07-01_01-54-53.mp4",
+            name: "Drill Rifle",
+            date: "April 2023",
+            description:
+                "Here is a very simplistic drill rifle made for a roleplay group. This rifle features different states, stabbing, and shooting. The gun was made to be inaccurate.",
+        },
+    ],
 };
 
 
@@ -57,8 +93,6 @@ const header = document.getElementsByClassName("heading-section")[0];
 const pastWorkSection = document.getElementsByClassName("past-work-section")[0];
 const availabilitySection = document.getElementsByClassName("availability-section")[0];
 const pricingSection = document.getElementsByClassName("pricing-section")[0];
-const termsSection = document.getElementsByClassName("terms-section")[0];
-const noteableSection = document.getElementsByClassName("noteable-section")[0];
 const getSection = document.getElementsByClassName("get-section")[0];
 
 const btns = document.getElementsByClassName("pc-btn-head");
@@ -77,9 +111,7 @@ window.onload = function () {
 // 1: pastwork, 
 // 2: pricing, 
 // 3: availability, 
-// 4: terms, 
-// 5: notable, 
-// 6: get in touch
+// 4: get in touch
 
 function show() {
 	if (window.scrollY < pastWorkSection.offsetTop - 100) {
@@ -104,18 +136,6 @@ function show() {
 		btns[2].classList.remove("blue-highlight");
 		btns[4].classList.remove("blue-highlight");
 		console.log("e");
-	}
-
-	if (window.scrollY >= termsSection.offsetTop - 160) {
-		btns[4].classList.add("blue-highlight");
-		btns[3].classList.remove("blue-highlight");
-		btns[5].classList.remove("blue-highlight");
-	}
-
-	if (window.scrollY >= noteableSection.offsetTop - 160) {
-		btns[5].classList.add("blue-highlight");
-		btns[4].classList.remove("blue-highlight");
-		btns[6].classList.remove("blue-highlight");
 	}
 
 	if (window.scrollY >= getSection.offsetTop - 160) {
@@ -160,19 +180,6 @@ function showM() {
 		btnsM[3].classList.add("blue-highlight");
 		btnsM[2].classList.remove("blue-highlight");
 		btnsM[4].classList.remove("blue-highlight");
-	}
-	
-
-	if (window.scrollY >= termsSection.offsetTop - 100) {
-		btnsM[4].classList.add("blue-highlight");
-		btnsM[3].classList.remove("blue-highlight");
-		btnsM[5].classList.remove("blue-highlight");
-	}
-
-	if (window.scrollY >= noteableSection.offsetTop - 100) {
-		btnsM[5].classList.add("blue-highlight");
-		btnsM[4].classList.remove("blue-highlight");
-		btnsM[6].classList.remove("blue-highlight");
 	}
 
 	if (window.scrollY >= getSection.offsetTop - 100) {
