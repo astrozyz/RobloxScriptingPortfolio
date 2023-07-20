@@ -73,6 +73,15 @@ const data = {
             description:
                 "Here is a very simplistic drill rifle made for a roleplay group. This rifle features different states, stabbing, and shooting. The gun was made to be inaccurate.",
         },
+        {
+            id: "work-9",
+            thumbnail:
+                "https://cdn.discordapp.com/attachments/1115165918243332106/1131473344605208596/skyrim_spell_compressed.mp4",
+            name: "Skyrim Shouts System",
+            date: "July 2023",
+            description:
+                "Here is a recreation of the shouts you can find in the game Skyrim. These feature certain abilities where you can unlock words and charge by holding Q, and depending on what word you charge up to you get a different effect.",
+        },
     ],
 };
 
