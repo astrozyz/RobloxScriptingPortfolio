@@ -49,11 +49,11 @@ const data = {
         {
             id: "work-6",
             thumbnail:
-                "https://cdn.discordapp.com/attachments/1014713861317861446/1124620518612533329/2023-07-01_01-38-51.mp4",
-            name: "Vehicle Setup",
-            date: "June 2023",
+                "https://cdn.discordapp.com/attachments/1115165918243332106/1150680965383987200/8mb.video-PYs-jng8l8eM.mp4",
+            name: "Customizable OTS Gun System",
+            date: "September 2023",
             description:
-                "Here is a vehicle that I set up for someone using A-Chassis",
+                "Here is a OTS/TPS gun system with everything being heavily customizable and easily interchangable.",
         },
         {
             id: "work-7",
@@ -66,15 +66,6 @@ const data = {
         },
         {
             id: "work-8",
-            thumbnail:
-                "https://cdn.discordapp.com/attachments/1014713861317861446/1124625389180948490/2023-07-01_01-54-53.mp4",
-            name: "Drill Rifle",
-            date: "April 2023",
-            description:
-                "Here is a very simplistic drill rifle made for a roleplay group. This rifle features different states, stabbing, and shooting. The gun was made to be inaccurate.",
-        },
-        {
-            id: "work-9",
             thumbnail:
                 "https://cdn.discordapp.com/attachments/1115165918243332106/1131473344605208596/skyrim_spell_compressed.mp4",
             name: "Skyrim Shouts System",
